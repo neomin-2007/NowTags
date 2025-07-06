@@ -16,4 +16,4 @@ Você pode usar o comando do seu plugin para adicionar a tag e remover do jogado
 
 | ![1](https://imgur.com/OkDbWE5.png) | ![2](https://imgur.com/Kg2bMCA.png) |
 |--------------------------------------|--------------------------------------|
-| ![3](https://imgur.com/cZDknb9.png) | ![4](https://imgur.com/LsuuEoW.png) |
+| ![4](https://imgur.com/LsuuEoW.png) |
