@@ -13,7 +13,7 @@ Funções específicas:
 
 Você pode usar o comando do seu plugin para adicionar a tag e remover do jogador, você pode ver os comandos nas fotos abaixo e quaisquers dúvidas pode me chamar no meu discord: @tiostitch
 
-![alt text](https://imgur.com/OkDbWE5.png)
-![alt text](https://imgur.com/Kg2bMCA.png)
-![alt text](https://imgur.com/cZDknb9.png)
-![alt text](https://imgur.com/LsuuEoW.png)
+
+| ![1](https://imgur.com/OkDbWE5.png) | ![2](https://imgur.com/Kg2bMCA.png) |
+|--------------------------------------|--------------------------------------|
+| ![3](ttps://imgur.com/cZDknb9.png) | ![4](https://imgur.com/LsuuEoW.png) |
